@@ -211,4 +211,8 @@ body{
     .navbar__s4{
         display: block;
     }
+    .sale-image__offer{
+        width:30%;
+        height:10%;
+    }
 }
