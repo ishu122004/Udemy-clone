@@ -212,7 +212,7 @@ body{
         display: block;
     }
     .sale-image__offer{
-        width:30%;
-        height:10%;
+        width:50%;
+        height:5%;
     }
 }
