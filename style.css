@@ -211,12 +211,20 @@ body{
     .navbar__s4{
         display: block;
     }
-    .sale-image__offer{
-        width:50%;
-        height:auto;
-        padding: 10px;
-        font-size: 12px;
+     .sale-image__offer{
+        width:40%;
         
+        padding: 5px;
+        font-size: 10px;
+        left:10px;
+        top: 250px;
         
+    }
+    .course-card{
+        width: 45%;
+    }
+    .course-card img{
+        width: 100%;
+        height: auto;
     }
 }
