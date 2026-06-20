@@ -203,7 +203,7 @@ body{
         flex-basis: 40%;
     }
     .course-card img{
-        height: 120px;
+        height: 100px;
         
         object-fit: cover;
     }
