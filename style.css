@@ -211,9 +211,12 @@ body{
     .navbar__s4{
         display: block;
     }
+    .sale-image{
+        position: relative;
+    }
      .sale-image__offer{
         width:40%;
-        
+        position: absolute;
         padding: 5px;
         font-size: 10px;
         left:10px;
