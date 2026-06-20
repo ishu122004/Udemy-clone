@@ -213,6 +213,8 @@ body{
     }
     .sale-image{
         position: relative;
+        width:40%;
+        height: 30%;
     }
      .sale-image__offer{
         width:40%;
