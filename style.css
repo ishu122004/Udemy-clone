@@ -202,6 +202,9 @@ body{
     .course-card{
         flex-basis: 40%;
     }
+    .course-card img{
+        height: 150px;
+    }
     .categories{
         display: none;
     }
