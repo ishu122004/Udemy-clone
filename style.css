@@ -213,6 +213,7 @@ body{
     }
     .sale-image{
         position: relative;
+        width: 100%;
         
     }
     
@@ -222,7 +223,7 @@ body{
         padding: 5px;
         font-size: 10px;
         left:10px;
-        bottom: 100px;
+        margin-bottom: 100px;
         
     }
     .course-card{
