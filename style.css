@@ -213,6 +213,9 @@ body{
     }
     .sale-image{
         position: relative;
+        
+    }
+    .sale-image img{
         width:40%;
         height: 30%;
     }
